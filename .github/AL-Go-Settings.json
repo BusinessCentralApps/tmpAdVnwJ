@@ -1,0 +1,9 @@
+{
+  "templateUrl": "https://github.com/businesscentralapps/tmpVhCeGV-PTE@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "doNotPublishApps": false,
+  "runs-on": "ubuntu-latest",
+  "type": "PTE",
+  "shell": "pwsh",
+  "useCompilerFolder": false
+}
